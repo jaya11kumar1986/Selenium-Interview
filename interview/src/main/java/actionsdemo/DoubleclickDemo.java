@@ -25,6 +25,8 @@ public class DoubleclickDemo {
 		Actions act=new Actions(driver);
 		
 		act.doubleClick(dc).perform();
+		
+		driver.close();
 	}
 
 }

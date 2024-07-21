@@ -2,19 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-08T19:47:51 IST" name="Suite" finished-at="2024-07-08T19:47:51 IST" duration-ms="52">
+  <suite started-at="2024-07-12T13:04:17 IST" name="Suite" finished-at="2024-07-12T13:04:27 IST" duration-ms="10757">
     <groups>
-      <group name="Regression">
-        <method signature="TestFive.test_2()[pri:0, instance:testNgPractice.TestFive@229c6181]" name="test_2" class="testNgPractice.TestFive"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-07-08T19:47:51 IST" name="Test" finished-at="2024-07-08T19:47:51 IST" duration-ms="52">
-      <class name="testNgPractice.TestFive">
-        <test-method signature="test_2()[pri:0, instance:testNgPractice.TestFive@229c6181]" started-at="2024-07-08T19:47:51 IST" name="test_2" finished-at="2024-07-08T19:47:51 IST" duration-ms="9" status="PASS">
+    <test started-at="2024-07-12T13:04:17 IST" name="Test" finished-at="2024-07-12T13:04:27 IST" duration-ms="10757">
+      <class name="table.AmazonPriceSort">
+        <test-method signature="amazon()[pri:0, instance:table.AmazonPriceSort@4d154ccd]" started-at="2024-07-12T13:04:17 IST" name="amazon" finished-at="2024-07-12T13:04:27 IST" duration-ms="10703" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_2 -->
-      </class> <!-- testNgPractice.TestFive -->
+        </test-method> <!-- amazon -->
+      </class> <!-- table.AmazonPriceSort -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

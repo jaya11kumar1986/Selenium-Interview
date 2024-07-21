@@ -3,7 +3,7 @@
 <suite parallel="methods" name="Suite">
   <test thread-count="5" parallel="methods" name="Test">
     <classes>
-      <class name="testNgPractice.Parallel"/>
+      <class name="table.AmazonPriceSort"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
